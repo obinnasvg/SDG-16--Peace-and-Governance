@@ -1,2 +1,2 @@
-# SDG 16: Peace and Governamce
+# SDG 16: Peace and Governance
 Web Map - Advanced Carthography
